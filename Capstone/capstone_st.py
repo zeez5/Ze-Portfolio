@@ -51,7 +51,7 @@ df = pd.get_dummies(df, columns= ['season','weathersit']).reindex(columns = ['ho
 if st.button("Click to Predict"):
 
     #load the model
-    loaded_model = pickle.load(open('lm_model_prediction_capstone.sav','rb'))
+    loaded_model = pickle.load(open('Capstone/lm_model_prediction_capstone.sav','rb'))
 
     #Make Predictions for number of bike rentals
     pred = loaded_model.predict(df)[0]
