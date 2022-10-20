@@ -13,11 +13,9 @@ Copyright (c) 2019 - 2020
 
 This *intermediate* level dataset contains the hourly and daily count of rental bikes between years 2011 and 2012 in Capital bikeshare system with the corresponding weather and seasonal information.
 Bike-sharing rental process is highly correlated to the environmental and seasonal settings. For instance, weather conditions, precipitation, day of week, season, hour of the day, etc. can affect the rental behaviors.
-This contains 2 files: Bike sharing counts aggregated on hourly basis (hour.csv - 17379 rows, 17 columns) & bike sharing counts aggregated on daily basis (day.csv - 731 rows, 16 columns)
 
-This data set is recommended for learning and practicing your skills in **exploratory data analysis**, **data visualization**, and **regression modelling techniques**.
 This data set could also be used to discover important trends and relationships.
-Feel free to explore the data set with multiple **supervised** and **unsupervised** learning techniques. The Following data dictionary gives more details on this data set. All columns (except hr) are similar in both the data sets:
+Feel free to explore the data set with multiple **supervised** and **unsupervised** learning techniques. The Following data dictionary gives more details on this data set:
 
 ---
 
