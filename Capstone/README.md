@@ -3,10 +3,6 @@ Copyright (c) 2019 - 2020
 
 ---
 
-**Level:** Intermediate <br/>
-**Recommended Use:** Regression Models<br/>
-**Domain:** Social<br/> 
-
 ## Bike Sharing Data Set 
 
 ### Predict bike rental count (hourly/daily) based on the environmental & seasonal settings
